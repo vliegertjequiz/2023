@@ -23,19 +23,19 @@ https://www.youtube.com/playlist?list=PLLU_e-WoIvyu2tDjlmXwITzyuTB7y9Fsk
 
 # Verteerscore
 
-01 Groenhof
-02 Quiz Dusauchoit
-03 TlagopTpuntjevanm'ntong
-04 Our Drinking Team Has A Trivia Problem
-05 Zat van fortuin
-06 Dolly Dots
-07 Het Zeepaardje
-08 Goe Bezig!
-09 Loslopende beren
-10 De Febbekakskes
-11 90’s friends
-12 De juffra toertjes 
-13 Quiztetwel
+01 Groenhof  
+02 Quiz Dusauchoit  
+03 TlagopTpuntjevanm'ntong  
+04 Our Drinking Team Has A Trivia Problem  
+05 Zat van fortuin  
+06 Dolly Dots  
+07 Het Zeepaardje  
+08 Goe Bezig!  
+09 Loslopende beren  
+10 De Febbekakskes  
+11 90’s friends  
+12 De juffra toertjes   
+13 Quiztetwel  
 
 
 ![image](https://user-images.githubusercontent.com/83135715/218261250-b0220d79-0769-4c5d-867c-bcc7edbaeff7.png)
